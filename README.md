@@ -12,7 +12,6 @@ This tutorial will walk you through the steps of using Mariabackup for a MariaDB
 
 ## Content
 
-- [Description](#description)
 - [Installation](#installation)
 - [Full Backup and Restore](#full-backup-and-restore)
 - [Partial Backup and Restore](#partial-backup-and-restore)
